@@ -26,6 +26,6 @@
   },
   {
     "key": "ctrl+left",
-    "command": "cursorWordPartRight"
+    "command": "cursorWordPartLeft"
   }
 ]
