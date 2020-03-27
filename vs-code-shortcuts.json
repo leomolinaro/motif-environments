@@ -43,5 +43,9 @@
   {
     "key": "ctrl+delete",
     "command": "deleteWordPartRight"
+  },
+  {
+    "key": "ctrl+t",
+    "command": "extension.transpose"
   }
 ]
